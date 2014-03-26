@@ -1,6 +1,5 @@
 from test_config import *
 from bahmni import *
-from time import sleep
 
 
 #Test Config
